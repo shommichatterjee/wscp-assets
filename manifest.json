@@ -827,17 +827,363 @@
     "vectors": {
       "label": "Premium Vectors",
       "description": "SVG logo elements from Vecteezy",
-      "items": []
+      "items": [
+        {
+          "id": "broadcast-01",
+          "label": "Broadcast 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/vectors/broadcast-01.svg",
+          "file": "broadcast-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "brush-01",
+          "label": "Brush 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/vectors/brush-01.svg",
+          "file": "brush-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "camera-01",
+          "label": "Camera 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/vectors/camera-01.svg",
+          "file": "camera-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "camera-02",
+          "label": "Camera 02",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/vectors/camera-02.svg",
+          "file": "camera-02.svg",
+          "type": "svg"
+        },
+        {
+          "id": "clapper-01",
+          "label": "Clapper 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/vectors/clapper-01.svg",
+          "file": "clapper-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "drum-01",
+          "label": "Drum 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/vectors/drum-01.svg",
+          "file": "drum-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "equalizer-01",
+          "label": "Equalizer 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/vectors/equalizer-01.svg",
+          "file": "equalizer-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "film-01",
+          "label": "Film 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/vectors/film-01.svg",
+          "file": "film-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "guitar-01",
+          "label": "Guitar 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/vectors/guitar-01.svg",
+          "file": "guitar-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "headphone-01",
+          "label": "Headphone 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/vectors/headphone-01.svg",
+          "file": "headphone-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "headphone-02",
+          "label": "Headphone 02",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/vectors/headphone-02.svg",
+          "file": "headphone-02.svg",
+          "type": "svg"
+        },
+        {
+          "id": "lens-01",
+          "label": "Lens 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/vectors/lens-01.svg",
+          "file": "lens-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "mic-01",
+          "label": "Mic 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/vectors/mic-01.svg",
+          "file": "mic-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "mic-02",
+          "label": "Mic 02",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/vectors/mic-02.svg",
+          "file": "mic-02.svg",
+          "type": "svg"
+        },
+        {
+          "id": "mixer-01",
+          "label": "Mixer 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/vectors/mixer-01.svg",
+          "file": "mixer-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "music-01",
+          "label": "Music 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/vectors/music-01.svg",
+          "file": "music-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "music-note-01",
+          "label": "Music Note 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/vectors/music-note-01.svg",
+          "file": "music-note-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "pen-01",
+          "label": "Pen 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/vectors/pen-01.svg",
+          "file": "pen-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "piano-01",
+          "label": "Piano 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/vectors/piano-01.svg",
+          "file": "piano-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "podcast-01",
+          "label": "Podcast 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/vectors/podcast-01.svg",
+          "file": "podcast-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "speaker-01",
+          "label": "Speaker 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/vectors/speaker-01.svg",
+          "file": "speaker-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "speaker-02",
+          "label": "Speaker 02",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/vectors/speaker-02.svg",
+          "file": "speaker-02.svg",
+          "type": "svg"
+        },
+        {
+          "id": "spotlight-01",
+          "label": "Spotlight 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/vectors/spotlight-01.svg",
+          "file": "spotlight-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "tape-01",
+          "label": "Tape 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/vectors/tape-01.svg",
+          "file": "tape-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vinyl-01",
+          "label": "Vinyl 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/vectors/vinyl-01.svg",
+          "file": "vinyl-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "waveform-01",
+          "label": "Waveform 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/vectors/waveform-01.svg",
+          "file": "waveform-01.svg",
+          "type": "svg"
+        }
+      ]
     },
     "frames": {
       "label": "Frames & Borders",
       "description": "Decorative frames & borders",
-      "items": []
+      "items": [
+        {
+          "id": "frame-01",
+          "label": "Frame 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/frames/frame-01.svg",
+          "file": "frame-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "frame-02",
+          "label": "Frame 02",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/frames/frame-02.svg",
+          "file": "frame-02.svg",
+          "type": "svg"
+        },
+        {
+          "id": "frame-03",
+          "label": "Frame 03",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/frames/frame-03.svg",
+          "file": "frame-03.svg",
+          "type": "svg"
+        },
+        {
+          "id": "frame-04",
+          "label": "Frame 04",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/frames/frame-04.svg",
+          "file": "frame-04.svg",
+          "type": "svg"
+        },
+        {
+          "id": "frame-05",
+          "label": "Frame 05",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/frames/frame-05.svg",
+          "file": "frame-05.svg",
+          "type": "svg"
+        },
+        {
+          "id": "frame-06",
+          "label": "Frame 06",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/frames/frame-06.svg",
+          "file": "frame-06.svg",
+          "type": "svg"
+        },
+        {
+          "id": "frame-07",
+          "label": "Frame 07",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/frames/frame-07.svg",
+          "file": "frame-07.svg",
+          "type": "svg"
+        },
+        {
+          "id": "frame-08",
+          "label": "Frame 08",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/frames/frame-08.svg",
+          "file": "frame-08.svg",
+          "type": "svg"
+        },
+        {
+          "id": "frame-09",
+          "label": "Frame 09",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/frames/frame-09.svg",
+          "file": "frame-09.svg",
+          "type": "svg"
+        },
+        {
+          "id": "frame-10",
+          "label": "Frame 10",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/frames/frame-10.svg",
+          "file": "frame-10.svg",
+          "type": "svg"
+        }
+      ]
     },
     "badges": {
       "label": "Badges & Crests",
       "description": "Vintage badges & crest shapes",
-      "items": []
+      "items": [
+        {
+          "id": "award-01",
+          "label": "Award 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/badges/award-01.svg",
+          "file": "award-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "badge-01",
+          "label": "Badge 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/badges/badge-01.svg",
+          "file": "badge-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "badge-02",
+          "label": "Badge 02",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/badges/badge-02.svg",
+          "file": "badge-02.svg",
+          "type": "svg"
+        },
+        {
+          "id": "crown-01",
+          "label": "Crown 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/badges/crown-01.svg",
+          "file": "crown-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "diamond-01",
+          "label": "Diamond 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/badges/diamond-01.svg",
+          "file": "diamond-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "hexagon-01",
+          "label": "Hexagon 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/badges/hexagon-01.svg",
+          "file": "hexagon-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "laurel-01",
+          "label": "Laurel 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/badges/laurel-01.svg",
+          "file": "laurel-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "medal-01",
+          "label": "Medal 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/badges/medal-01.svg",
+          "file": "medal-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "rosette-01",
+          "label": "Rosette 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/badges/rosette-01.svg",
+          "file": "rosette-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "shield-01",
+          "label": "Shield 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/badges/shield-01.svg",
+          "file": "shield-01.svg",
+          "type": "svg"
+        },
+        {
+          "id": "shield-02",
+          "label": "Shield 02",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/badges/shield-02.svg",
+          "file": "shield-02.svg",
+          "type": "svg"
+        },
+        {
+          "id": "shield-03",
+          "label": "Shield 03",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/badges/shield-03.svg",
+          "file": "shield-03.svg",
+          "type": "svg"
+        },
+        {
+          "id": "star-01",
+          "label": "Star 01",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/badges/star-01.svg",
+          "file": "star-01.svg",
+          "type": "svg"
+        }
+      ]
     }
   }
 }
