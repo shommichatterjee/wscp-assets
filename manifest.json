@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "cdnBase": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main",
+  "cdnBase": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main",
   "backgrounds": {
     "textures": {
       "gold": {
@@ -10,203 +10,203 @@
           {
             "id": "gold-01",
             "label": "Gold 01",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/gold/gold-01.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/gold/gold-01.jpg",
             "file": "gold-01.jpg",
             "type": "jpg"
           },
           {
             "id": "gold-02",
             "label": "Gold 02",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/gold/gold-02.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/gold/gold-02.jpg",
             "file": "gold-02.jpg",
             "type": "jpg"
           },
           {
             "id": "gold-03",
             "label": "Gold 03",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/gold/gold-03.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/gold/gold-03.jpg",
             "file": "gold-03.jpg",
             "type": "jpg"
           },
           {
             "id": "gold-04",
             "label": "Gold 04",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/gold/gold-04.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/gold/gold-04.jpg",
             "file": "gold-04.jpg",
             "type": "jpg"
           },
           {
             "id": "gold-06",
             "label": "Gold 06",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/gold/gold-06.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/gold/gold-06.jpg",
             "file": "gold-06.jpg",
             "type": "jpg"
           },
           {
             "id": "gold-07",
             "label": "Gold 07",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/gold/gold-07.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/gold/gold-07.jpg",
             "file": "gold-07.jpg",
             "type": "jpg"
           },
           {
             "id": "gold-08",
             "label": "Gold 08",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/gold/gold-08.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/gold/gold-08.jpg",
             "file": "gold-08.jpg",
             "type": "jpg"
           },
           {
             "id": "gold-09",
             "label": "Gold 09",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/gold/gold-09.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/gold/gold-09.jpg",
             "file": "gold-09.jpg",
             "type": "jpg"
           },
           {
             "id": "gold-10",
             "label": "Gold 10",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/gold/gold-10.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/gold/gold-10.jpg",
             "file": "gold-10.jpg",
             "type": "jpg"
           },
           {
             "id": "gold-11",
             "label": "Gold 11",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/gold/gold-11.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/gold/gold-11.jpg",
             "file": "gold-11.jpg",
             "type": "jpg"
           },
           {
             "id": "gold-12",
             "label": "Gold 12",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/gold/gold-12.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/gold/gold-12.jpg",
             "file": "gold-12.jpg",
             "type": "jpg"
           },
           {
             "id": "gold-13",
             "label": "Gold 13",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/gold/gold-13.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/gold/gold-13.jpg",
             "file": "gold-13.jpg",
             "type": "jpg"
           },
           {
             "id": "gold-14",
             "label": "Gold 14",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/gold/gold-14.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/gold/gold-14.jpg",
             "file": "gold-14.jpg",
             "type": "jpg"
           },
           {
             "id": "gold-15",
             "label": "Gold 15",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/gold/gold-15.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/gold/gold-15.jpg",
             "file": "gold-15.jpg",
             "type": "jpg"
           },
           {
             "id": "gold-16",
             "label": "Gold 16",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/gold/gold-16.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/gold/gold-16.jpg",
             "file": "gold-16.jpg",
             "type": "jpg"
           },
           {
             "id": "gold-17",
             "label": "Gold 17",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/gold/gold-17.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/gold/gold-17.jpg",
             "file": "gold-17.jpg",
             "type": "jpg"
           },
           {
             "id": "gold-18",
             "label": "Gold 18",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/gold/gold-18.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/gold/gold-18.jpg",
             "file": "gold-18.jpg",
             "type": "jpg"
           },
           {
             "id": "gold-19",
             "label": "Gold 19",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/gold/gold-19.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/gold/gold-19.jpg",
             "file": "gold-19.jpg",
             "type": "jpg"
           },
           {
             "id": "gold-20",
             "label": "Gold 20",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/gold/gold-20.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/gold/gold-20.jpg",
             "file": "gold-20.jpg",
             "type": "jpg"
           },
           {
             "id": "gold-21",
             "label": "Gold 21",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/gold/gold-21.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/gold/gold-21.jpg",
             "file": "gold-21.jpg",
             "type": "jpg"
           },
           {
             "id": "gold-22",
             "label": "Gold 22",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/gold/gold-22.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/gold/gold-22.jpg",
             "file": "gold-22.jpg",
             "type": "jpg"
           },
           {
             "id": "gold-23",
             "label": "Gold 23",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/gold/gold-23.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/gold/gold-23.jpg",
             "file": "gold-23.jpg",
             "type": "jpg"
           },
           {
             "id": "gold-24",
             "label": "Gold 24",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/gold/gold-24.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/gold/gold-24.jpg",
             "file": "gold-24.jpg",
             "type": "jpg"
           },
           {
             "id": "gold-25",
             "label": "Gold 25",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/gold/gold-25.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/gold/gold-25.jpg",
             "file": "gold-25.jpg",
             "type": "jpg"
           },
           {
             "id": "gold-26",
             "label": "Gold 26",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/gold/gold-26.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/gold/gold-26.jpg",
             "file": "gold-26.jpg",
             "type": "jpg"
           },
           {
             "id": "gold-27",
             "label": "Gold 27",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/gold/gold-27.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/gold/gold-27.jpg",
             "file": "gold-27.jpg",
             "type": "jpg"
           },
           {
             "id": "gold-28",
             "label": "Gold 28",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/gold/gold-28.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/gold/gold-28.jpg",
             "file": "gold-28.jpg",
             "type": "jpg"
           },
           {
             "id": "gold-29",
             "label": "Gold 29",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/gold/gold-29.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/gold/gold-29.jpg",
             "file": "gold-29.jpg",
             "type": "jpg"
           },
           {
             "id": "gold-30",
             "label": "Gold 30",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/gold/gold-30.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/gold/gold-30.jpg",
             "file": "gold-30.jpg",
             "type": "jpg"
           }
@@ -219,210 +219,210 @@
           {
             "id": "black-01",
             "label": "Black 01",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/black/black-01.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/black/black-01.jpg",
             "file": "black-01.jpg",
             "type": "jpg"
           },
           {
             "id": "black-02",
             "label": "Black 02",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/black/black-02.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/black/black-02.jpg",
             "file": "black-02.jpg",
             "type": "jpg"
           },
           {
             "id": "black-03",
             "label": "Black 03",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/black/black-03.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/black/black-03.jpg",
             "file": "black-03.jpg",
             "type": "jpg"
           },
           {
             "id": "black-04",
             "label": "Black 04",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/black/black-04.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/black/black-04.jpg",
             "file": "black-04.jpg",
             "type": "jpg"
           },
           {
             "id": "black-05",
             "label": "Black 05",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/black/black-05.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/black/black-05.jpg",
             "file": "black-05.jpg",
             "type": "jpg"
           },
           {
             "id": "black-06",
             "label": "Black 06",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/black/black-06.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/black/black-06.jpg",
             "file": "black-06.jpg",
             "type": "jpg"
           },
           {
             "id": "black-07",
             "label": "Black 07",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/black/black-07.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/black/black-07.jpg",
             "file": "black-07.jpg",
             "type": "jpg"
           },
           {
             "id": "black-08",
             "label": "Black 08",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/black/black-08.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/black/black-08.jpg",
             "file": "black-08.jpg",
             "type": "jpg"
           },
           {
             "id": "black-09",
             "label": "Black 09",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/black/black-09.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/black/black-09.jpg",
             "file": "black-09.jpg",
             "type": "jpg"
           },
           {
             "id": "black-10",
             "label": "Black 10",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/black/black-10.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/black/black-10.jpg",
             "file": "black-10.jpg",
             "type": "jpg"
           },
           {
             "id": "black-11",
             "label": "Black 11",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/black/black-11.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/black/black-11.jpg",
             "file": "black-11.jpg",
             "type": "jpg"
           },
           {
             "id": "black-12",
             "label": "Black 12",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/black/black-12.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/black/black-12.jpg",
             "file": "black-12.jpg",
             "type": "jpg"
           },
           {
             "id": "black-13",
             "label": "Black 13",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/black/black-13.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/black/black-13.jpg",
             "file": "black-13.jpg",
             "type": "jpg"
           },
           {
             "id": "black-14",
             "label": "Black 14",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/black/black-14.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/black/black-14.jpg",
             "file": "black-14.jpg",
             "type": "jpg"
           },
           {
             "id": "black-15",
             "label": "Black 15",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/black/black-15.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/black/black-15.jpg",
             "file": "black-15.jpg",
             "type": "jpg"
           },
           {
             "id": "black-16",
             "label": "Black 16",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/black/black-16.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/black/black-16.jpg",
             "file": "black-16.jpg",
             "type": "jpg"
           },
           {
             "id": "black-17",
             "label": "Black 17",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/black/black-17.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/black/black-17.jpg",
             "file": "black-17.jpg",
             "type": "jpg"
           },
           {
             "id": "black-18",
             "label": "Black 18",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/black/black-18.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/black/black-18.jpg",
             "file": "black-18.jpg",
             "type": "jpg"
           },
           {
             "id": "black-19",
             "label": "Black 19",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/black/black-19.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/black/black-19.jpg",
             "file": "black-19.jpg",
             "type": "jpg"
           },
           {
             "id": "black-20",
             "label": "Black 20",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/black/black-20.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/black/black-20.jpg",
             "file": "black-20.jpg",
             "type": "jpg"
           },
           {
             "id": "black-21",
             "label": "Black 21",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/black/black-21.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/black/black-21.jpg",
             "file": "black-21.jpg",
             "type": "jpg"
           },
           {
             "id": "black-22",
             "label": "Black 22",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/black/black-22.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/black/black-22.jpg",
             "file": "black-22.jpg",
             "type": "jpg"
           },
           {
             "id": "black-23",
             "label": "Black 23",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/black/black-23.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/black/black-23.jpg",
             "file": "black-23.jpg",
             "type": "jpg"
           },
           {
             "id": "black-24",
             "label": "Black 24",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/black/black-24.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/black/black-24.jpg",
             "file": "black-24.jpg",
             "type": "jpg"
           },
           {
             "id": "black-25",
             "label": "Black 25",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/black/black-25.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/black/black-25.jpg",
             "file": "black-25.jpg",
             "type": "jpg"
           },
           {
             "id": "black-26",
             "label": "Black 26",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/black/black-26.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/black/black-26.jpg",
             "file": "black-26.jpg",
             "type": "jpg"
           },
           {
             "id": "black-27",
             "label": "Black 27",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/black/black-27.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/black/black-27.jpg",
             "file": "black-27.jpg",
             "type": "jpg"
           },
           {
             "id": "black-28",
             "label": "Black 28",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/black/black-28.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/black/black-28.jpg",
             "file": "black-28.jpg",
             "type": "jpg"
           },
           {
             "id": "black-29",
             "label": "Black 29",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/black/black-29.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/black/black-29.jpg",
             "file": "black-29.jpg",
             "type": "jpg"
           },
           {
             "id": "black-30",
             "label": "Black 30",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/black/black-30.jpg",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/black/black-30.jpg",
             "file": "black-30.jpg",
             "type": "jpg"
           }
@@ -435,70 +435,70 @@
           {
             "id": "paper-01",
             "label": "Paper 01",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/paper/paper-01.png",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/paper/paper-01.png",
             "file": "paper-01.png",
             "type": "png"
           },
           {
             "id": "paper-02",
             "label": "Paper 02",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/paper/paper-02.png",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/paper/paper-02.png",
             "file": "paper-02.png",
             "type": "png"
           },
           {
             "id": "paper-03",
             "label": "Paper 03",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/paper/paper-03.png",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/paper/paper-03.png",
             "file": "paper-03.png",
             "type": "png"
           },
           {
             "id": "paper-04",
             "label": "Paper 04",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/paper/paper-04.png",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/paper/paper-04.png",
             "file": "paper-04.png",
             "type": "png"
           },
           {
             "id": "paper-05",
             "label": "Paper 05",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/paper/paper-05.png",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/paper/paper-05.png",
             "file": "paper-05.png",
             "type": "png"
           },
           {
             "id": "paper-06",
             "label": "Paper 06",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/paper/paper-06.png",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/paper/paper-06.png",
             "file": "paper-06.png",
             "type": "png"
           },
           {
             "id": "paper-07",
             "label": "Paper 07",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/paper/paper-07.png",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/paper/paper-07.png",
             "file": "paper-07.png",
             "type": "png"
           },
           {
             "id": "paper-08",
             "label": "Paper 08",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/paper/paper-08.png",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/paper/paper-08.png",
             "file": "paper-08.png",
             "type": "png"
           },
           {
             "id": "paper-09",
             "label": "Paper 09",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/paper/paper-09.png",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/paper/paper-09.png",
             "file": "paper-09.png",
             "type": "png"
           },
           {
             "id": "paper-10",
             "label": "Paper 10",
-            "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/textures/paper/paper-10.png",
+            "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/textures/paper/paper-10.png",
             "file": "paper-10.png",
             "type": "png"
           }
@@ -512,42 +512,42 @@
         {
           "id": "mono-01",
           "label": "BG 01",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/monogram/mono-01.jpg",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/monogram/mono-01.jpg",
           "file": "mono-01.jpg",
           "type": "jpg"
         },
         {
           "id": "mono-02",
           "label": "BG 02",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/monogram/mono-02.jpg",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/monogram/mono-02.jpg",
           "file": "mono-02.jpg",
           "type": "jpg"
         },
         {
           "id": "mono-03",
           "label": "BG 03",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/monogram/mono-03.jpg",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/monogram/mono-03.jpg",
           "file": "mono-03.jpg",
           "type": "jpg"
         },
         {
           "id": "mono-04",
           "label": "BG 04",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/monogram/mono-04.jpg",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/monogram/mono-04.jpg",
           "file": "mono-04.jpg",
           "type": "jpg"
         },
         {
           "id": "mono-05",
           "label": "BG 05",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/monogram/mono-05.jpg",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/monogram/mono-05.jpg",
           "file": "mono-05.jpg",
           "type": "jpg"
         },
         {
           "id": "mono-06",
           "label": "BG 06",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/backgrounds/monogram/mono-06.jpg",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/backgrounds/monogram/mono-06.jpg",
           "file": "mono-06.jpg",
           "type": "jpg"
         }
@@ -567,189 +567,189 @@
         {
           "id": "anchor",
           "label": "Anchor",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/objects/anchor.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/objects/anchor.png",
           "file": "anchor.png",
           "type": "png"
         },
         {
           "id": "arrows",
           "label": "Arrows",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/objects/arrows.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/objects/arrows.png",
           "file": "arrows.png",
           "type": "png"
         },
         {
           "id": "axes",
           "label": "Axes",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/objects/axes.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/objects/axes.png",
           "file": "axes.png",
           "type": "png"
         },
         {
           "id": "barrels",
           "label": "Barrels",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/objects/barrels.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/objects/barrels.png",
           "file": "barrels.png",
           "type": "png"
         },
         {
           "id": "baseball-ball-1",
           "label": "Baseball",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/objects/baseball-ball-1.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/objects/baseball-ball-1.png",
           "file": "baseball-ball-1.png",
           "type": "png"
         },
         {
           "id": "baseball-ball-2",
           "label": "Baseball Alt",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/objects/baseball-ball-2.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/objects/baseball-ball-2.png",
           "file": "baseball-ball-2.png",
           "type": "png"
         },
         {
           "id": "baseball-bats",
           "label": "Baseball Bats",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/objects/baseball-bats.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/objects/baseball-bats.png",
           "file": "baseball-bats.png",
           "type": "png"
         },
         {
           "id": "basketball-ball",
           "label": "Basketball",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/objects/basketball-ball.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/objects/basketball-ball.png",
           "file": "basketball-ball.png",
           "type": "png"
         },
         {
           "id": "bicycle",
           "label": "Bicycle",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/objects/bicycle.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/objects/bicycle.png",
           "file": "bicycle.png",
           "type": "png"
         },
         {
           "id": "boat-wheel",
           "label": "Ship Wheel",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/objects/boat-wheel.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/objects/boat-wheel.png",
           "file": "boat-wheel.png",
           "type": "png"
         },
         {
           "id": "boot",
           "label": "Boot",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/objects/boot.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/objects/boot.png",
           "file": "boot.png",
           "type": "png"
         },
         {
           "id": "boots",
           "label": "Cowboy Boots",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/objects/boots.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/objects/boots.png",
           "file": "boots.png",
           "type": "png"
         },
         {
           "id": "brown-bear",
           "label": "Brown Bear",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/objects/brown-bear.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/objects/brown-bear.png",
           "file": "brown-bear.png",
           "type": "png"
         },
         {
           "id": "buffallo",
           "label": "Buffalo",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/objects/buffallo.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/objects/buffallo.png",
           "file": "buffallo.png",
           "type": "png"
         },
         {
           "id": "chicken-2",
           "label": "Rooster",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/objects/chicken-2.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/objects/chicken-2.png",
           "file": "chicken-2.png",
           "type": "png"
         },
         {
           "id": "chicken",
           "label": "Chicken",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/objects/chicken.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/objects/chicken.png",
           "file": "chicken.png",
           "type": "png"
         },
         {
           "id": "deer",
           "label": "Deer",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/objects/deer.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/objects/deer.png",
           "file": "deer.png",
           "type": "png"
         },
         {
           "id": "duck",
           "label": "Duck",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/objects/duck.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/objects/duck.png",
           "file": "duck.png",
           "type": "png"
         },
         {
           "id": "fish",
           "label": "Fish",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/objects/fish.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/objects/fish.png",
           "file": "fish.png",
           "type": "png"
         },
         {
           "id": "hammers",
           "label": "Hammers",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/objects/hammers.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/objects/hammers.png",
           "file": "hammers.png",
           "type": "png"
         },
         {
           "id": "lightbulb",
           "label": "Lightbulb",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/objects/lightbulb.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/objects/lightbulb.png",
           "file": "lightbulb.png",
           "type": "png"
         },
         {
           "id": "motorcycle",
           "label": "Motorcycle",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/objects/motorcycle.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/objects/motorcycle.png",
           "file": "motorcycle.png",
           "type": "png"
         },
         {
           "id": "photo-camera",
           "label": "Camera",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/objects/photo-camera.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/objects/photo-camera.png",
           "file": "photo-camera.png",
           "type": "png"
         },
         {
           "id": "pig-2",
           "label": "Pig Alt",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/objects/pig-2.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/objects/pig-2.png",
           "file": "pig-2.png",
           "type": "png"
         },
         {
           "id": "pig",
           "label": "Pig",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/objects/pig.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/objects/pig.png",
           "file": "pig.png",
           "type": "png"
         },
         {
           "id": "polar-bear",
           "label": "Polar Bear",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/objects/polar-bear.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/objects/polar-bear.png",
           "file": "polar-bear.png",
           "type": "png"
         },
         {
           "id": "soccer-ball",
           "label": "Soccer Ball",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/objects/soccer-ball.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/objects/soccer-ball.png",
           "file": "soccer-ball.png",
           "type": "png"
         }
@@ -762,63 +762,63 @@
         {
           "id": "coffee-stain-1",
           "label": "Stain 1",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/overlays/coffee-stain-1.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/overlays/coffee-stain-1.png",
           "file": "coffee-stain-1.png",
           "type": "png"
         },
         {
           "id": "coffee-stain-2",
           "label": "Stain 2",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/overlays/coffee-stain-2.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/overlays/coffee-stain-2.png",
           "file": "coffee-stain-2.png",
           "type": "png"
         },
         {
           "id": "coffee-stain-3",
           "label": "Stain 3",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/overlays/coffee-stain-3.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/overlays/coffee-stain-3.png",
           "file": "coffee-stain-3.png",
           "type": "png"
         },
         {
           "id": "coffee-stain-4",
           "label": "Stain 4",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/overlays/coffee-stain-4.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/overlays/coffee-stain-4.png",
           "file": "coffee-stain-4.png",
           "type": "png"
         },
         {
           "id": "coffee-stain-5",
           "label": "Stain 5",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/overlays/coffee-stain-5.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/overlays/coffee-stain-5.png",
           "file": "coffee-stain-5.png",
           "type": "png"
         },
         {
           "id": "coffee-stain-6",
           "label": "Stain 6",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/overlays/coffee-stain-6.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/overlays/coffee-stain-6.png",
           "file": "coffee-stain-6.png",
           "type": "png"
         },
         {
           "id": "coffee-stain-7",
           "label": "Stain 7",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/overlays/coffee-stain-7.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/overlays/coffee-stain-7.png",
           "file": "coffee-stain-7.png",
           "type": "png"
         },
         {
           "id": "coffee-stain-8",
           "label": "Stain 8",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/overlays/coffee-stain-8.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/overlays/coffee-stain-8.png",
           "file": "coffee-stain-8.png",
           "type": "png"
         },
         {
           "id": "coffee-stain-9",
           "label": "Stain 9",
-          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main/elements/overlays/coffee-stain-9.png",
+          "url": "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main/elements/overlays/coffee-stain-9.png",
           "file": "coffee-stain-9.png",
           "type": "png"
         }

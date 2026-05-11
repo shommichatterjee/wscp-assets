@@ -8,13 +8,13 @@ Static asset server for the WorkSyncPro Logo Maker. Served via GitHub Pages.
 2. Push this folder:
    ```
    cd wscp-assets
-   git remote add origin https://github.com/YOUR_USERNAME/wscp-assets.git
+   git remote add origin https://github.com/shommichatterjee/wscp-assets.git
    git add .
    git commit -m "Initial asset upload"
    git push -u origin main
    ```
 3. Go to repo Settings → Pages → Source: `main` branch, `/ (root)` folder → Save
-4. Your CDN base URL will be: `https://YOUR_USERNAME.github.io/wscp-assets`
+4. Your CDN base URL will be: `https://shommichatterjee.github.io/wscp-assets`
 5. Update `ASSETS_CDN_BASE` in `LogoMakerNative.html`
 
 ## Directory Structure

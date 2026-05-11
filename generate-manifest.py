@@ -3,7 +3,7 @@
 
 import json, os, sys
 
-CDN_BASE = os.environ.get("CDN_BASE", "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/wscp-assets/main")
+CDN_BASE = os.environ.get("CDN_BASE", "https://raw.githubusercontent.com/shommichatterjee/wscp-assets/main")
 BASE = os.path.dirname(os.path.abspath(__file__))
 
 LABEL_OVERRIDES = {
